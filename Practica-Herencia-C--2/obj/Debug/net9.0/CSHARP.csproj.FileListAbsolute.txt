@@ -1,0 +1,14 @@
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.AssemblyInfoInputs.cache
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.AssemblyInfo.cs
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.csproj.CoreCompileInputs.cache
+/Users/tomjmp/Desktop/CSHARP/bin/Debug/net9.0/CSHARP
+/Users/tomjmp/Desktop/CSHARP/bin/Debug/net9.0/CSHARP.deps.json
+/Users/tomjmp/Desktop/CSHARP/bin/Debug/net9.0/CSHARP.runtimeconfig.json
+/Users/tomjmp/Desktop/CSHARP/bin/Debug/net9.0/CSHARP.dll
+/Users/tomjmp/Desktop/CSHARP/bin/Debug/net9.0/CSHARP.pdb
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.dll
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/refint/CSHARP.dll
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.pdb
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/CSHARP.genruntimeconfig.cache
+/Users/tomjmp/Desktop/CSHARP/obj/Debug/net9.0/ref/CSHARP.dll
